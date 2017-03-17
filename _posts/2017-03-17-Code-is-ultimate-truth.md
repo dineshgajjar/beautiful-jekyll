@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First post!
+title: Code is ultimate truth!
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+tags: [code, principles]
 ---
 
 This is my first post, how exciting!
